@@ -89,7 +89,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/f-a-tonmoy/code-smell-detection.git
+   git clone https://github.com/Samiul-Islam12/Code-Smell-Detection.git
    cd code-smell-detection
    ```
 
